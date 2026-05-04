@@ -1,0 +1,4 @@
+#!/bin/sh
+
+DIFFSYNTH_SKIP_DOWNLOAD=false
+DIFFSYNTH_DOWNLOAD_SOURCE=huggingface
